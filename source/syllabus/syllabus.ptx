@@ -293,7 +293,7 @@
       <p>
         Letter grades will be assigned as follows. Grades will not be curved or rounded.
       </p>
-      <tabular bottom="medium">
+      <tabular halign="center" bottom="medium">
         <row header="yes">
             <cell>Letter Grade</cell>
             <cell>Percent Needed</cell>
